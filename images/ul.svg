@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27 27" width="27" height="27">
+	<title>ul1-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="27" y1="13.5" x2="1.5" y2="19.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#82191c"/>
+			<stop offset=".3" stop-color="#82191c"/>
+			<stop offset=".7" stop-color="#82191c"/>
+			<stop offset="1" stop-color="#82191c"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: #ffffff } 
+	</style>
+	<path id="Layer" class="s0" d="m13.5 27c-7.5 0-13.5-6-13.5-13.5 0-7.5 6-13.5 13.5-13.5 7.5 0 13.5 6 13.5 13.5 0 7.5-6 13.5-13.5 13.5z"/>
+	<path id="Layer" fill-rule="evenodd" class="s1" d="m12.2 17.5l-0.7-0.7-3.5-3.6 0.7-0.7 3.5 3.6 7.1-7.1 0.7 0.7z"/>
+</svg>
